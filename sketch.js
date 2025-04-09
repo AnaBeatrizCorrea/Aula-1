@@ -9,6 +9,6 @@ function draw () {
   stroke("black")
   fill("darkblue");
   if (mouseIsPressed) {
-  circle (mouseX, mouseY, 30);
+  circle (mouseX, mouseY, 3);
   } 
 }
